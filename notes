@@ -1,0 +1,14 @@
+a command line interface for discovering trending music, starting with soundcloud. 
+
+user types soundcloud
+
+"
+
+CLI shows a list of genres
+
+which genre would you like to look at? 
+
+
+user chooses a genre and is shown a list of trending songs in that genre, how many plays each song has and the release date of the song and the artist(s) 
+
+user can enter the name of any artist and see a list of their songs, and a list of URLs to their external web pages 
