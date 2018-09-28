@@ -3,7 +3,7 @@
 class SoundcloudScraper::CLI
 
   def call
-    puts "What genre of music are you interested in?"
+    puts "Today's hottest tracks"
   end
 
 end

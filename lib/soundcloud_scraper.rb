@@ -1,5 +1,2 @@
-require "soundcloud_scraper/version"
-
-module SoundcloudScraper
-  # Your code goes here...
-end
+require_relative './soundcloud_scraper/version'
+require_relative "./soundcloud_scraper/cli"
