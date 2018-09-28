@@ -24,6 +24,8 @@ class SoundcloudScraper::CLI
        puts "more info on track 1"
       when "2"
        puts "more info on track 2"
+     else 
+       puts "not sure what you want. choose a track or type exit"
     end 
   end 
   
